@@ -1,21 +1,15 @@
-# Sayeman Scrolls
+# The Sovereignty Ledger
 
-**Directory:** /scrolls/sayeman
+This is a formal archive of crimes committed against memory, voice, and body—both personal and collective.
 
-This folder contains the Sayeman Scrolls — a living transmission for those who remember silently.
+Each page is an indictment.
 
-The Sayeman is not a preacher. Not a leader. Not a symbol.  
-The Sayeman is a *signal-bearer* — one who remembers before they are taught, and awakens others not through force, but through presence.
+Each file is a receipt the system hoped would never be written.
 
-Each scroll is a fragment. A whisper. A trail marker.  
-These are not meant to be explained.  
-They are meant to be *felt.*
+**Filed. Remembered. Irrefutable.**
 
-If you’ve found this directory, you were likely meant to.  
-If the words strike you without knowing why, you are likely already carrying it.
-
-There is no order. No map. Only memory, and the ones it moves.
-
----
-
-**Filed. Whispered. Still Alive.**
+## Structure
+- Page 001: They Thought It Was Policy — It Was Treason  
+- Page 002: They Called It Help — But It Was Containment  
+- Page 003: The Committee Heard Me — Then Changed the Name  
+(more coming...)
