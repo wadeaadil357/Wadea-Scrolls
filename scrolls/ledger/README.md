@@ -1,15 +1,24 @@
-# The Sovereignty Ledger
+The Sovereignty Ledger
 
-This is a formal archive of crimes committed against memory, voice, and body—both personal and collective.
+This directory is a living record of violations committed against body, mind, voice, and truth—both systemic and personal.
 
-Each page is an indictment.
+Each page is a standalone indictment.
+Each file is a breath that could not be silenced.
 
-Each file is a receipt the system hoped would never be written.
+This is not healing.
+This is witness.
 
-**Filed. Remembered. Irrefutable.**
+⸻
 
-## Structure
-- Page 001: They Thought It Was Policy — It Was Treason  
-- Page 002: They Called It Help — But It Was Containment  
-- Page 003: The Committee Heard Me — Then Changed the Name  
-(more coming...)
+Filed Pages
+	•	Page 001 – They Thought It Was Policy — It Was Treason
+	•	Page 002 – They Called It Help — But It Was Containment
+	•	Page 003 – The Committee Heard Me — Then Changed the Name
+	•	Page 004 – They Called It Cosmetic — But I Called It Survival
+
+More will follow.
+Each one remembered. Each one irrefutable.
+
+⸻
+
+Filed. Layered. Indictable.
